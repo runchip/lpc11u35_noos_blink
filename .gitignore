@@ -1,3 +1,9 @@
+Objects/*
+Listings/*
+*.uvgui.*
+*.uvopt
+*.scvd
+
 # Prerequisites
 *.d
 
